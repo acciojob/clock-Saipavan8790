@@ -1,7 +1,7 @@
 //your JS code here. If required.
 function liveTime() {
     let date = new Date();
-	console,log(date);
+	console.log(date);
 //     let day = date.getDate();
 //     let month = date.getMonth() + 1;
 //     let year = date.getFullYear();
